@@ -7,6 +7,7 @@ The pacman is controlled by keys W, A, S, D. Once you lose/win, press R to resta
 You will have 4 lives to win the game. There are 4 kongs, and even if you touch 1 kong, you lose a life. To win the game, you need to collect all the coins.
 
 # To run the Game
+Clone the repository and extract the folder.
 To run the game, you need to have python3 installed. You can follow instructions given in this website (https://realpython.com/installing-python/) to install python3.
 After you install python3, you need to install numpy and pygame libraries. If you are a window user, run command line as administrator and type in these 2 commands.
 1. To install numpy: py -m pip install -U numpy --user
